@@ -1,6 +1,6 @@
-# lookit-stimuli-template
+# lookit-stimuli-storage
 
-A repository for the study: Choice and Imitation. PIs: Lindsey Powell & Adena Schachner (University of California, San Diego). 
+A repository of stimuli for the study: Choice and Imitation. 
 
 ## Getting started
 
