@@ -1,6 +1,6 @@
 # lookit-stimuli-storage
 
-A repository of stimuli for the study: Choice and Imitation. 
+A stimuli repository for the study: Choice and Imitation. 
 
 ## Getting started
 
